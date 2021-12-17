@@ -1,0 +1,6 @@
+.ryad{
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    font-size: large;
+}
